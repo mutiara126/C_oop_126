@@ -41,5 +41,9 @@ int main()
     cin >> mhs1.nim;
     cout << "Masukan nama : ";
     cin >> mhs1.nama;
+    mhs1.cetak();
+
+    mk.input();
+    mk.tampil();
 }
 
