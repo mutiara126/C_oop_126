@@ -30,11 +30,11 @@ public:
         cout << "Nama Matakuliah : " << namaM;
         cout << " SKS : " << sks;
     }
-        
-       
-}
 };
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    Mahasiswa mhs1;
+    Matakuliah mk;
 }
+
