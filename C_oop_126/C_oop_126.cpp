@@ -36,5 +36,7 @@ int main()
 {
     Mahasiswa mhs1;
     Matakuliah mk;
+
+    cout << "Masukan NIM : ";
 }
 
